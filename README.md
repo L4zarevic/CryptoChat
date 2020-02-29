@@ -1,2 +1,3 @@
 # CryptoChat - beta
-Java chat application with AES encryption
+
+App is just test AES encryption in Java 8
